@@ -28,4 +28,4 @@ Ils utilisent les broches PA0, PA1 et PA8 pour la girouette et les broches PB8  
 >>En commun : Géstion de la pile avec l'ADC (3.6) et clock interne avec CMOS. (3.3)
 
 
-![Alt text](Config_BE_voilier_HW.jpg)
+![Configuration de la carte Nucleo pour commander le voilier.](Config_BE_voilier_HW.jpg)
