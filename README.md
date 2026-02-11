@@ -28,44 +28,4 @@ Ils utilisent les broches PA0, PA1 et PA8 pour la girouette et les broches PB8  
 >>En commun : Géstion de la pile avec l'ADC (3.6) et clock interne avec CMOS. (3.3)
 
 
-
-
-
-
-
-# GIT dans le terminal
-
-## Comment initialiser son GIT :
->> init git
-
->> git config --global user.email "[USER]@insa-toulouse.fr"
-
->> git config --global user.name "[NOM]"
-
->> git config --global credential.helper manager (Si Windows)
-
->> git remote add origin https://git.etud.insa-toulouse.fr/johnse/BE_VOILIER.git
-
-
-## Comment PULL :
-
->> git pull
-
->> git switch [BRANCHE]
-
-
-## Comment PUSH :
-
->> git add [NOMDUFICHIER]
-
->> git commit -m "[COMMENTAIRE]"
-
->> git push -u origin [BRANCHE]
-
-
-
-# Inspiration
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc2.staticflickr.com%2F6%2F5229%2F5681377563_4d4e274d51_b.jpg&f=1&nofb=1&ipt=cbe9495133b91e29c85ebc218df03cb9e58fc50148b045a8933418eb060146ad" alt="Le voilier Sørlandet au large des côtes canadiennes">
-
 Le voilier Sørlandet au large des côtes canadiennes
